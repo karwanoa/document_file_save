@@ -3,7 +3,7 @@
 # Run `pod lib lint document_file_save.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'document_file_save'
+  s.name             = 'document_file_save_plus'
   s.version          = '0.0.1'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC
